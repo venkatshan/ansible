@@ -1,0 +1,4 @@
+---
+
+- name: ping
+  shell: /home/weblogic/user_projects/domains/provadmin1/startWebLogic.sh &

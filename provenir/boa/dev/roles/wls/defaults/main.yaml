@@ -1,0 +1,5 @@
+---
+
+oracle_wls_home: /opt/efs/oracle
+
+wls_domains: /home/weblogic/user_projects/domains
